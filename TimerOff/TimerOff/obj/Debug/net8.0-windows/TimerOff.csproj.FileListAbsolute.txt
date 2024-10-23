@@ -1,0 +1,16 @@
+C:\Users\maube\source\repos\TimerOff\TimerOff\bin\Debug\net8.0-windows\TimerOff.exe
+C:\Users\maube\source\repos\TimerOff\TimerOff\bin\Debug\net8.0-windows\TimerOff.deps.json
+C:\Users\maube\source\repos\TimerOff\TimerOff\bin\Debug\net8.0-windows\TimerOff.runtimeconfig.json
+C:\Users\maube\source\repos\TimerOff\TimerOff\bin\Debug\net8.0-windows\TimerOff.dll
+C:\Users\maube\source\repos\TimerOff\TimerOff\bin\Debug\net8.0-windows\TimerOff.pdb
+C:\Users\maube\source\repos\TimerOff\TimerOff\obj\Debug\net8.0-windows\TimerOff.Form1.resources
+C:\Users\maube\source\repos\TimerOff\TimerOff\obj\Debug\net8.0-windows\TimerOff.csproj.GenerateResource.cache
+C:\Users\maube\source\repos\TimerOff\TimerOff\obj\Debug\net8.0-windows\TimerOff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maube\source\repos\TimerOff\TimerOff\obj\Debug\net8.0-windows\TimerOff.AssemblyInfoInputs.cache
+C:\Users\maube\source\repos\TimerOff\TimerOff\obj\Debug\net8.0-windows\TimerOff.AssemblyInfo.cs
+C:\Users\maube\source\repos\TimerOff\TimerOff\obj\Debug\net8.0-windows\TimerOff.csproj.CoreCompileInputs.cache
+C:\Users\maube\source\repos\TimerOff\TimerOff\obj\Debug\net8.0-windows\TimerOff.dll
+C:\Users\maube\source\repos\TimerOff\TimerOff\obj\Debug\net8.0-windows\refint\TimerOff.dll
+C:\Users\maube\source\repos\TimerOff\TimerOff\obj\Debug\net8.0-windows\TimerOff.pdb
+C:\Users\maube\source\repos\TimerOff\TimerOff\obj\Debug\net8.0-windows\TimerOff.genruntimeconfig.cache
+C:\Users\maube\source\repos\TimerOff\TimerOff\obj\Debug\net8.0-windows\ref\TimerOff.dll
